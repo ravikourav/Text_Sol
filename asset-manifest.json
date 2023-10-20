@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text_Sol/static/css/main.abd64e84.css",
+    "main.js": "/Text_Sol/static/js/main.0906592c.js",
+    "static/js/787.051eb2ca.chunk.js": "/Text_Sol/static/js/787.051eb2ca.chunk.js",
+    "index.html": "/Text_Sol/index.html",
+    "main.abd64e84.css.map": "/Text_Sol/static/css/main.abd64e84.css.map",
+    "main.0906592c.js.map": "/Text_Sol/static/js/main.0906592c.js.map",
+    "787.051eb2ca.chunk.js.map": "/Text_Sol/static/js/787.051eb2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.0906592c.js"
+  ]
+}
